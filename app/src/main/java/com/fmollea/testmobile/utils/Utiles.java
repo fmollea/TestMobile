@@ -82,7 +82,6 @@ public class Utiles {
     }
 
     public static boolean verificarConexion(Context pContext){
-
         ConnectivityManager infoNetwork = (ConnectivityManager)pContext.getSystemService(Context.CONNECTIVITY_SERVICE);
 
         NetworkInfo activeNetwork = infoNetwork.getActiveNetworkInfo();

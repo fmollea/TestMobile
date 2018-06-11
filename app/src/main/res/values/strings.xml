@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pagos</string>
+    <string name="txt_IngreseMonto">Ingrese el monto a pagar </string>
+    <string name="txt_SeleccioneBanco">Seleccione su banco: </string>
+    <string name="txt_SeleccioneMedioDePago">Seleccione el medio de pago: </string>
+    <string name="error_CampoVacio">Tiene que ingresar un valor</string>
+    
+    <string name="title_tarjeta">Lista de Tarjetas</string>
+    <string name="title_banco">Lista de Bancos</string>
+    <string name="title_cuotas">Selección de Cuotas</string>
+
+</resources>
